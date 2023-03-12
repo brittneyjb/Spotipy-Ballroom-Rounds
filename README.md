@@ -1,7 +1,8 @@
 # Spotipy-Ballroom-Rounds
 
 ### Disclaimer:
-This is a script created by Brittney Bush in her freetime. This is not created with best practices in mind it was simply a "can I do this" manner.  
+This is a script created by Brittney Bush in her freetime.   
+This is not created with best practices in mind it was simply a "can I do this" manner.  
 Please submit any pull requests here and I will review.  
 Before submitting any merge requests, please remove your personal user_id and laptop(device_id).  
 This script has currently only been run on my machine and using a spotify premium account.  
@@ -21,3 +22,10 @@ Continue to follow the prompts and enjoy.
 ### Spotipy Documentation:
 https://spotipy.readthedocs.io/en/2.22.1/#  
 Examples: https://github.com/spotipy-dev/spotipy-examples
+
+### Next Steps:
+Continue to grow the playlists songs are coming from.
+*(can work with GTBDC board to have the endpoints be the GTBDC spotify account)*
+Implementing the fadeout() function to work better regardless of internet signal strength.
+Feel free to suggest more!
+
